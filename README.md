@@ -1,6 +1,4 @@
-# 🚀 HNG-13: STAGE 3 (#track_backend)
-
-## 🧠 Study Coach AI Agent
+# 🧠 Study Coach AI Agent
 
 ## Overview
 
@@ -125,6 +123,5 @@ and that your .env file is properly configured.
 Connect with me:
 
 - 📧 Email: napg.adekunle@gmail.com
-- 🌈 Slack: Jamal-09
 
 ### Built with 💻 & ❤️ by Jamal
